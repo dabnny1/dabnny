@@ -1,5 +1,7 @@
 # authkit
 
+![tests](https://img.shields.io/badge/tests-33%20passed-brightgreen)
+
 A small authentication utility built entirely on the Python standard library:
 
 - **Password hashing** — PBKDF2-HMAC-SHA256 with a per-password random salt.
