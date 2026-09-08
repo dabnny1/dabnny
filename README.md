@@ -1,6 +1,6 @@
 # authkit
 
-![tests](https://img.shields.io/badge/tests-33%20passed-brightgreen)
+[![tests](https://github.com/dabnny1/dabnny/actions/workflows/tests.yml/badge.svg)](https://github.com/dabnny1/dabnny/actions/workflows/tests.yml)
 
 A small authentication utility built entirely on the Python standard library:
 
