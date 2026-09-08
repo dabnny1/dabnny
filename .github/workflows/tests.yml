@@ -1,3 +1,6 @@
+# Status badge (Markdown):
+# [![tests](https://github.com/dabnny1/dabnny/actions/workflows/tests.yml/badge.svg)](https://github.com/dabnny1/dabnny/actions/workflows/tests.yml)
+
 name: tests
 
 on:
