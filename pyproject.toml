@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "A small standard-library authentication utility (password hashing, user store, session tokens)."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = { file = "LICENSE" }
 authors = [{ name = "dabnn", email = "dabnny@gmail.com" }]
 dependencies = []
 

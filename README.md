@@ -68,3 +68,7 @@ pytest
 
 - Load the token secret from config/environment, never a literal.
 - For new projects, consider `argon2` or `bcrypt` (needs a dependency) over PBKDF2.
+
+## License
+
+[MIT](LICENSE)
